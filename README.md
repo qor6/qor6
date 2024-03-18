@@ -9,6 +9,9 @@
 --------------
 - 제10회 산업통상자원부 공공데이터 활용 BI 공모전 제품 및 서비스 개발 장려상(한국전력거래소 사장상) (2022)
 
+# Proceeding
+- 데이터프로그래밍 튜터(2024.03 ~)
+
 
 <!--
 **qor6/qor6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
