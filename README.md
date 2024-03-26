@@ -2,7 +2,8 @@
 
 # Proceeding
 - 데이터과학 프로그래밍 교과목 튜터(2024.03 ~ )
-- CarbonAra 회장 [[CarbonAra-CBA]](https://github.com/CarbonAra-CBA) (2023.12 ~ ) 
+- CarbonAra 회장 [[CarbonAra-CBA]](https://github.com/CarbonAra-CBA) (2023.12 ~ )
+  
 
 # Awards
 -
