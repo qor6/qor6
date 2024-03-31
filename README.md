@@ -28,8 +28,8 @@
     </ul><br>
     <li><strong>Be Careful : 도로 보행 위험 행동 인식 시스템 (2022)</strong></li>
     <ul>
-      <li>스몸비족이라는 용어가 나올 정도로 스마트폰을 보면서 도로를 다니는 사람들의 증가는 안전한 보행 환경을 위협하므로 cctv 등 도로 보행 이미지를 학습시켜 도로 보행 중 위험 행동 감지 시 경고를 알리는 이미지 처리</li>
-      <code>Python</code> <code>YOLO</code> <code>Openpose</code> 
+      <li>스몸비족이라는 용어가 나오는 등 스마트폰을 보면서 도로를 다니는 사람들의 급증은 위험한 보행 환경을 야기하므로 cctv 등 도로 및 보행 이미지를 학습시켜 도로 보행 중 위험 행동 감지 시 경고를 알리는 등을 목적으로 한 이미지 처리</li>
+      <code>YOLO</code> <code>Openpose</code> 
     </ul><br>
     <li><strong>순환신경망 기반 신뢰적인 TOU요금제 서비스 (2022)</strong></li>
     <ul>
