@@ -21,6 +21,16 @@
       <li>대학 내 인공지능 학습과 전기 사용의 증가로 그린 캠퍼스 사업이 저조한 문제를 과목별 탄소 배출량 모니터링을 통해 시각화 대시보드를 제공함으로써 효율적인 과목별 캠퍼스 강의 스케쥴을 제공</li>
       <code>Python</code> <code>Deep Learning</code>
     </ul><br>
+    <li><strong>Koopa:시계열 예측기의 경량화(2023)</strong></li>
+    <ul>
+      <li>Koopman이론을 활용해 비정상 시계열을 분리 후 나누어진 시계열 데이터를 역학적으로 학습 및 경량화</li>
+      <code>Python</code> <code>Deep Learning</code> <code>Koopa</code>
+    </ul><br>
+    <li><strong>Be Careful : 도로 보행 위험 행동 인식 시스템 (2022)</strong></li>
+    <ul>
+      <li>스몸비족이라는 용어가 나올 정도로 스마트폰을 보면서 도로를 다니는 사람들의 증가는 안전한 보행 환경을 위협하므로 cctv 등 도로 보행 이미지를 학습시켜 도로 보행 중 위험 행동 감지 시 경고를 알리는 이미지 처리</li>
+      <code>Python</code> <code>YOLO</code> <code>Openpose</code> 
+    </ul><br>
     <li><strong>순환신경망 기반 신뢰적인 TOU요금제 서비스 (2022)</strong></li>
     <ul>
       <li>전력데이터의 누락으로 인해 발생하는 TOU 요금제의 문제점을 최신 RNN 모델을 통해 전력데이터를 보간함으로써 해결하여 TOU 요금제의 신뢰도 향상</li>
