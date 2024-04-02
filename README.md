@@ -16,7 +16,7 @@
 
 # Project
   <ol>
-    <li><strong>탄소 발자국의 실시간 추적을 통한 캠퍼스 강의 스케쥴의 Net-Zero화 (2023)</strong></li>
+    <li><strong>탄소 발자국의 실시간 추적을 통한 캠퍼스 강의 스케쥴의 Net-Zero화 (2023) - COCL</strong></li>
     <ul>
       <li>대학 내 인공지능 학습과 전기 사용의 증가로 그린 캠퍼스 사업이 저조한 문제를 과목별 탄소 배출량 모니터링을 통해 시각화 대시보드를 제공함으로써 효율적인 과목별 캠퍼스 강의 스케쥴을 제공</li>
       <code>Python</code> <code>streamlit</code> <code>Deep Learning</code> <code>firebase</code> 
@@ -26,7 +26,7 @@
       <li>Koopman이론을 활용해 비정상 시계열을 분리 후 나누어진 시계열 데이터를 역학적으로 학습 및 경량화</li>
       <code>Deep Learning</code> <code>Koopa</code>
     </ul><br>
-    <li><strong>Be Careful : 도로 보행 위험 행동 인식 시스템 (2022)</strong></li>
+    <li><strong>도로 보행 위험 행동 인식 시스템 (2022) - Be Careful</strong></li>
     <ul>
       <li>스몸비족이라는 용어가 나오는 등 스마트폰을 보면서 도로를 다니는 사람들의 급증은 위험한 보행 환경을 야기하므로 cctv 등 도로 및 보행 이미지를 학습시켜 도로 보행 중 위험 행동 감지 시 경고를 알리는 등을 목적으로 한 이미지 처리</li>
       <code>YOLO</code> <code>Openpose</code> 
