@@ -5,7 +5,7 @@
 - CarbonAra 회장 [[CarbonAra-CBA]](https://github.com/CarbonAra-CBA) (2023.12 ~ )
   
 # Awards
--
+
 --------------
 - DAU SW중심대학 AI SW 실증역량 경진대회 우수상 수상 [[github]](https://github.com/datascience-labs/COCL) (2023.12)
 - 부산 지역현안해결 대학수업지원 프로젝트 우수상(부산 테크노파크원장상) 수상 (2023)
