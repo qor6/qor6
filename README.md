@@ -36,6 +36,7 @@
       <code>Python</code> <code>Flask</code> <code>Deep Learning</code> <code>Multi-directional Recurrent Neural Network</code> <code>Time Series Forecasting</code>
     </ul><br>
 
+
 <!--
 **qor6/qor6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
