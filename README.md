@@ -8,6 +8,7 @@
 
 --------------
 - DAU SW중심대학 AI SW 실증역량 경진대회 우수상 수상 [[github]](https://github.com/datascience-labs/COCL) (2023.12)
+  
 - 부산 지역현안해결 대학수업지원 프로젝트 우수상(부산 테크노파크원장상) 수상 (2023)
 - DAU AI SW 창의융합 DevDay 아이디어 기획 Track 대상 수상 [[github]](https://github.com/qor6/A_CO2tracker) (2023.08)
 ------------------
