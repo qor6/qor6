@@ -18,7 +18,7 @@
   <ol>
     <li><strong>CMM 측정 데이터 이상치 탐지를 위한 딥러닝 모듈 개발 (2024)</strong></li>
     <ul>
-      <li>공장의 CMM 측정 과정에서 작은 부품</li>
+      <li>공장의 CMM 측정</li>
       <code>Python</code> <code>Machine Learning</code> <code>Anomaly Detection</code>
     </ul><br>
     <li><strong>탄소 발자국의 실시간 추적을 통한 캠퍼스 강의 스케쥴의 Net-Zero화 (2023)</strong></li>
