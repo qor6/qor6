@@ -18,7 +18,7 @@
   <ol>
     <li><strong>CMM 측정 데이터 이상치 탐지를 위한 딥러닝 모듈 개발 (2024)</strong></li>
     <ul>
-      <li>3차원 측정기 CMM 데이터의 불량 판정과 기존 공정 프로세스의 생산성 향상을 위해 CMM 데이터의 이상치를 탐지하기 위한 딥러닝 모듈을 개발한다. 이상치 탐지 딥러닝 모델 기술에 적용시켜 제품의 불량과 정상을 분류한다.</li>
+      <li>3차원 측정기 CMM 데이터의 불량 판정과 기존 공정 프로세스의 생산성 향상을 위해 CMM 데이터의 이상치를 탐지하기 위한 딥러닝 모듈을 개발하여 이상치 탐지 딥러닝 모델 기술에 적용시켜 부품의 불량과 정상을 분류한다.</li>
       <code>Python</code> <code>Machine Learning</code> <code>Anomaly Detection</code>
     </ul><br>
     <li><strong>탄소 발자국의 실시간 추적을 통한 캠퍼스 강의 스케쥴의 Net-Zero화 (2023)</strong></li>
