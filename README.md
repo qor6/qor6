@@ -19,14 +19,12 @@
     <li><strong>CMM 측정 데이터 이상치 탐지를 위한 딥러닝 모듈 개발 (2024)</strong></li>
     <ul>
       <li>3차원 측정기 CMM 데이터의 불량 판정과 기존 공정 프로세스의 생산성 향상을 위해 CMM 데이터의 이상치를 탐지하기 위한 딥러닝 모듈을 개발하여 이상치 탐지 딥러닝 모델 기술에 적용시켜 부품의 불량과 정상을 분류한다.</li>
-      <code>Python</code> <code>Machine Learning</code> <code>Anomaly Detection</code><br>
-      
+      <code>Python</code> <code>Machine Learning</code> <code>Anomaly Detection</code>
     </ul><br>
     <li><strong>탄소 발자국의 실시간 추적을 통한 캠퍼스 강의 스케쥴의 Net-Zero화 (2023)</strong></li>
     <ul>
       <li>대학 내 인공지능 학습과 전기 사용의 증가로 그린 캠퍼스 사업이 저조한 문제를 과목별 탄소 배출량 모니터링을 통해 시각화 대시보드를 제공함으로써 효율적인 과목별 캠퍼스 강의 스케쥴을 제공 - COCL (Carbon Optimized Coures Load)</li>
-      <code>Python</code> <code>streamlit</code> <code>Deep Learning</code> <code>firebase</code> <code>Time Series</code> <code>Monitering-System</code><br>
-      
+      <code>Python</code> <code>streamlit</code> <code>Deep Learning</code> <code>firebase</code> <code>Time Series</code> <code>Monitering-System</code>
     </ul><br>
     <li><strong>Koopa:시계열 예측기의 경량화 (2023) </strong></li>
     <ul>
@@ -43,8 +41,7 @@
     <li><strong>순환신경망 기반 신뢰적인 TOU요금제 서비스 (2022)</strong></li>
     <ul>
       <li>전력데이터의 누락으로 인해 발생하는 TOU 요금제의 문제점을 최신 RNN 모델을 통해 전력데이터를 보간함으로써 해결하여 TOU 요금제의 신뢰도 향상</li>
-      <code>Python</code> <code>Flask</code> <code>Deep Learning</code> <code>Multi-directional Recurrent Neural Network</code> <code>Time Series Forecasting</code><br>
-      
+      <code>Python</code> <code>Flask</code> <code>Deep Learning</code> <code>Multi-directional Recurrent Neural Network</code> <code>Time Series Forecasting</code>      
     </ul><br>
 
 
