@@ -28,7 +28,7 @@
     </ul><br>
     <li><strong>Koopa:시계열 예측기의 경량화 (2023) </strong></li>
     <ul>
-      <li>Koopman이론을 활용해 비정상 시계열을 분리 후 나누어진 시계열 데이터를 역학적으로 학습 및 경량화</li>
+      <li>Koopman이론을 활용해 비정상 시계열을 분리 후 나누어진 시계열 데이터를 역학적으로 분활하여 성질에 따른 학습 진행 후 경량화</li>
       <code>Deep Learning</code> <code>Koopa</code>
     </ul><br>
     <li><strong>도로 보행 위험 행동 인식 시스템 (2022) - Be Careful</strong></li>
