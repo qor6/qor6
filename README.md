@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Sumin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 # Campus Activities
-- 데이터과학 프로그래밍 교과목 튜터 (2024.03 ~ )
-- CarbonAra 회장-동아리 [CarbonAra-CBA](https://github.com/CarbonAra-CBA) (2023.12 ~ )
+- 데이터과학 프로그래밍 교과목 튜터 (2024.03 ~ 2024.12)
+- CarbonAra 회장-동아리 [CarbonAra-CBA](https://github.com/CarbonAra-CBA) (2023.12 ~ 2025.02)
   
 # Awards
 
